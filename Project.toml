@@ -1,0 +1,13 @@
+name = "MachineLearningExample"
+uuid = "adf18e51-a0db-4bf4-a037-c5ee6f888f76"
+authors = ["Ben Kincaid"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
